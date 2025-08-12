@@ -1,4 +1,3 @@
-```markdown
 # Advanced Hybrid Architectures for MNIST Classification
 
 [![Python 3.9](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
@@ -165,4 +164,3 @@ AI Developer, iCog Labs
 GitHub: [@Ermi1223](https://github.com/Ermi1223)
 
 Project Link: [https://github.com/Ermi1223/mnist-cnn-svm-hybrid](https://github.com/Ermi1223/mnist-cnn-svm-hybrid)
-```
