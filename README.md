@@ -142,8 +142,9 @@ The comprehensive technical report includes:
 - Feature space visualization
 - Practical deployment recommendations
 
-[View PDF Report](report.pdf)
+<!-- [View PDF Report](mnist_cnn_svm_report.pdf) -->
 
+![View PDF Report](artifacts/results/cmnist_cnn_svm_report.pdf)
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
@@ -160,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 **Ermiyas G**  
-AI Developer, iCog Labs   
+iCog Labs   
 GitHub: [@Ermi1223](https://github.com/Ermi1223)
 
 Project Link: [https://github.com/Ermi1223/mnist-cnn-svm-hybrid](https://github.com/Ermi1223/mnist-cnn-svm-hybrid)
